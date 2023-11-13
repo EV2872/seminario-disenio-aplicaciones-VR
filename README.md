@@ -13,3 +13,4 @@ El artículo proporciona consejos a los desarrolladores de juegos de realidad vi
 6. Abordar el Problema de la Locomoción: Se exploran diversas estrategias para evitar el mareo al permitir el movimiento del jugador, como el uso de sistemas de teletransporte y desactivar aceleraciones en controladores de jugador para movimientos clásicos.
 7. Dejar que los Jugadores Elijan su Método de Movimiento: Se enfatiza la importancia de permitir a los jugadores elegir entre diferentes mecánicas de movimiento para adaptarse a sus preferencias y tolerancias.
 8. Selección del Género del Juego: Se menciona que algunos géneros de juegos, como los de carreras o montañas rusas, son más propensos a inducir mareos, y se sugiere incluir advertencias para los usuarios sensibles.
+   
