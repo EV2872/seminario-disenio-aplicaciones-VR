@@ -13,4 +13,23 @@ El artículo proporciona consejos a los desarrolladores de juegos de realidad vi
 6. Abordar el Problema de la Locomoción: Se exploran diversas estrategias para evitar el mareo al permitir el movimiento del jugador, como el uso de sistemas de teletransporte y desactivar aceleraciones en controladores de jugador para movimientos clásicos.
 7. Dejar que los Jugadores Elijan su Método de Movimiento: Se enfatiza la importancia de permitir a los jugadores elegir entre diferentes mecánicas de movimiento para adaptarse a sus preferencias y tolerancias.
 8. Selección del Género del Juego: Se menciona que algunos géneros de juegos, como los de carreras o montañas rusas, son más propensos a inducir mareos, y se sugiere incluir advertencias para los usuarios sensibles.
-   
+
+### Vídeo
+
+Los temas clave incluyen:
+
+    Concepto de Sistemas Operativos de VR: La idea de un sistema operativo que rodea al usuario en un espacio 3D, en lugar de estar limitado a pantallas 2D como computadoras o smartphones.
+
+    Diseño Centrado en el Humano: Uso de instintos humanos a nuestro favor en el diseño de interfaces de VR.
+
+    Zonas de Contenido en VR: El video describe diferentes 'zonas' dentro del espacio VR, como zonas de contenido principal, periféricas y de curiosidad, donde diferentes tipos de contenido e interacciones serían colocadas de manera más cómoda y efectiva.
+
+    Métodos de Entrada e Interacciones: Discusión sobre varios métodos de entrada en VR, como punteros láser, selección con mirilla, teletransportación e interacciones basadas en gestos.
+
+    Ergonomía en VR: Énfasis en la comodidad y ergonomía del uso de interfaces VR, considerando factores como el campo de visión, ángulos cómodos de rotación de la cabeza y percepción de profundidad.
+
+    Diseño de Botones en VR: Exploración del diseño de botones y elementos interactivos en VR, con un enfoque en interacciones naturales y diseño intuitivo.
+
+    Narrativa de Usuario en VR: El video presenta un escenario hipotético de un usuario realizando varias tareas en VR, como ver videos, leer y usar un asistente personal, para demostrar cómo funcionarían estas interacciones en un entorno VR.
+
+    Flujo de Trabajo de Diseño para VR: Introducción de un flujo de trabajo de diseño específicamente adaptado para VR, incluyendo técnicas de prototipado rápido.
